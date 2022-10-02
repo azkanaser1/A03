@@ -24,3 +24,5 @@
 
 ## Resources:
 [Hello World - GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world)
+[Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+[GitHub Glossary - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-glossary)
