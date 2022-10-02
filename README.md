@@ -12,7 +12,7 @@
 9. Merge your pull requests
 10. Now you may delete the branch which was just merged into main
 
-## Define:
+## Definitions:
 - **repository**: similar to a folder that contains all of the project files, including documentation and edit history
 - **README file**: a file containing information about a project, written in plain text Markdown language
 - **branch**: parallel version of a repository that lets you have different versions of it at the same time, without distrupting the main/live one. A branch may be merged into main to publish changes
