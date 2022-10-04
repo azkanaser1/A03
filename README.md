@@ -54,4 +54,4 @@
 
 [Free Educational Licenses - Community Support](https://www.jetbrains.com/community/education/#students)
 
-[GitHub](https://github.com/)
+[GitHub](https://github.com/) 
