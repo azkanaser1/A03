@@ -49,3 +49,9 @@
 [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 [GitHub Glossary - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-glossary)
+
+[Git Downloads](https://git-scm.com/downloads)
+
+[Free Educational Licenses - Community Support](https://www.jetbrains.com/community/education/#students)
+
+[GitHub](https://github.com/)
